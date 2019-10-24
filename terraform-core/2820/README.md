@@ -1,3 +1,0 @@
-["How input variables force instance replacement?"](https://discuss.hashicorp.com/t/how-input-variables-force-instance-replacement/2820)
-
-Can't say using a `local-exec` to self-taint a terraform resource is the greatest idea...
